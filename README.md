@@ -10,7 +10,7 @@ All eagle files are in the repro.
 
 ## BOM
 
-[Octopart BOM](www.octopart.com)
+[Octopart BOM](https://octopart.com/bom-tool/OzYDJwBg)
 
 ## Licence
 
