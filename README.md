@@ -1,7 +1,6 @@
 # Nearness-1U
 
 This is an adaption of [sarnesjo's nearness module](https://github.com/sarnesjo/nearness) in 1U Pulplogic format.
-All eagle files are in the repro.
 
 ### Changes made:
 
