@@ -8,7 +8,7 @@ This is an adaption of [sarnesjo's nearness module](https://github.com/sarnesjo/
 
 - New layout and format. All parts fit on a single 2-layer PCB.
 - Added a second input for the center position (50:50) instead of one.
-- Added a 3pin link header to chain with a EXI[S]T module.
+- Added a 3pin link header to connect the outputs directly to an EXI[S]T module. Pluging a cable into the output jacks breaks the connection.
 
 ## Make your own
 
