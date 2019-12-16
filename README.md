@@ -7,12 +7,17 @@ This is an adaption of [sarnesjo's nearness module](https://github.com/sarnesjo/
 ### Changes made:
 
 - New layout and format. All parts fit on a single 2-layer PCB.
-- Two inputs for the center position instead of one.
+- Added a second input for the center position (50:50) instead of one.
+- Added a 3pin link header to chain with a EXI[S]T module.
 
-## BOM
+## Make your own
+
+[Eagle files](https://github.com/sonoCircuits/Nearness-1U/tree/master/NEARNESS%201U%20EAGLE%20FILES)
 
 [Octopart BOM](https://octopart.com/bom-tool/OzYDJwBg)
 
 ## Licence
+
+Thanks to sarnesjo for sharing! Same licence applies.
 
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
